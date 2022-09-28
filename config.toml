@@ -1,6 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://snazzy-dieffenbachia-bf08b3.netlify.app'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-ink'
-[params]
-        mode = "dark"
